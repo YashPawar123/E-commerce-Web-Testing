@@ -1,10 +1,10 @@
-Developed automated test scripts using Java, Selenium,
+1)Developed automated test scripts using Java, Selenium,
 and TestNG.
-Performed cross-browser compatibility testing using
+2)Performed cross-browser compatibility testing using
 Selenium.
-Analyzed user requirements and developed automation
+3)Analyzed user requirements and developed automation
 strategies.
-Documented test scenarios, cases, execution steps, and
+4)Documented test scenarios, cases, execution steps, and
 results.
-Created and optimized automated testing tools for
+5)Created and optimized automated testing tools for
 repetitive tasks
